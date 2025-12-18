@@ -1,0 +1,14 @@
+{
+  "name": "reactnamaste",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  } 
+}
